@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-26T19:06:09 IST" name="Default suite" finished-at="2024-08-26T19:06:20 IST" duration-ms="10662">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T19:06:09 IST" name="Default test" finished-at="2024-08-26T19:06:20 IST" duration-ms="10662">
+      <class name="com.swagrunner.SwagRunner">
+        <test-method is-config="true" signature="extentReportStartUp()[pri:0, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:09 IST" name="extentReportStartUp" finished-at="2024-08-26T19:06:09 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportStartUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:09 IST" name="setup" finished-at="2024-08-26T19:06:12 IST" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidLoginMethods()[pri:-1, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:12 IST" name="InvalidLoginMethods" finished-at="2024-08-26T19:06:14 IST" duration-ms="2560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginMethods -->
+        <test-method signature="LoginMethods()[pri:0, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:15 IST" name="LoginMethods" finished-at="2024-08-26T19:06:15 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginMethods -->
+        <test-method signature="getItemOne()[pri:1, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:15 IST" name="getItemOne" finished-at="2024-08-26T19:06:16 IST" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemOne -->
+        <test-method signature="getItemTwo()[pri:2, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:16 IST" name="getItemTwo" finished-at="2024-08-26T19:06:17 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemTwo -->
+        <test-method signature="getItemThree()[pri:3, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:17 IST" name="getItemThree" finished-at="2024-08-26T19:06:18 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemThree -->
+        <test-method signature="getItemFour()[pri:4, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:18 IST" name="getItemFour" finished-at="2024-08-26T19:06:19 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemFour -->
+        <test-method signature="getItemFive()[pri:5, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:19 IST" name="getItemFive" finished-at="2024-08-26T19:06:20 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemFive -->
+        <test-method is-config="true" signature="extentTearDown()[pri:0, instance:com.swagrunner.SwagRunner@4722ef0c]" started-at="2024-08-26T19:06:20 IST" name="extentTearDown" finished-at="2024-08-26T19:06:21 IST" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentTearDown -->
+      </class> <!-- com.swagrunner.SwagRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

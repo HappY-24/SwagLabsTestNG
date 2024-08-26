@@ -1,0 +1,1 @@
+{"uuid":"7f0873d9-909c-4eaf-82d6-bb7781b94bd5","name":"Default suite","children":["58989297-be74-48c0-abeb-15699d29d1b0"],"befores":[{"name":"extentReportStartUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724595559874,"stop":1724595560195}],"afters":[],"start":1724595559848,"stop":1724595725480}
